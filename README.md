@@ -1,6 +1,14 @@
 # Car_Sales_analysis
 Data analysis and visualization of car sales using Python, Pandas, and Matplotlib
 # 🚗 Car Sales Analysis – Data Visualization Project
+## 📊 Visualizations
+
+### Top 10 Car Models by Sales
+![Top 10 Car Models](top_10_car_models.png)
+
+### Sales Distribution
+![Sales Distribution Pie](sales_distribution_pie.png)
+
 
 ## 📌 Project Overview
 This project analyzes car sales data using Python to identify top-selling car models and visualize sales distribution using charts.
@@ -23,7 +31,9 @@ This project analyzes car sales data using Python to identify top-selling car mo
 - analysis.py  
 - Car_sales.csv  
 - top_10_car_models.png  
-- sales_distribution_pie.png  
+- sales_distribution_pie.png
+
+  
 
 ## 🚀 How to Run
 ```bash
