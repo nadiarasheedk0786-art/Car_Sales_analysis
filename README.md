@@ -29,7 +29,7 @@ This project analyzes car sales data using Python to identify top-selling car mo
 
 ## 📂 Files Included
 - analysis.py  
-- Car_sales.csv  
+- car_sales.csv  
 - top_10_car_models.png  
 - sales_distribution_pie.png
 
